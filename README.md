@@ -1,13 +1,13 @@
-# Marketing Performance Analysis 🧠📈
+# Marketing Performance Analysis 
 
 Este proyecto analiza datos de visitas, pedidos y costos para evaluar la efectividad del marketing digital de una plataforma de comercio.
 
-## 📊 Objetivos
+##  Objetivos
 - Calcular métricas clave como CAC, ROMI y LTV.
 - Evaluar la rentabilidad por fuente de adquisición.
 - Formular recomendaciones basadas en datos.
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 marketing-analysis-project/
 ├── data/
 │ ├── visits_log_us.csv
@@ -19,7 +19,7 @@ marketing-analysis-project/
 ├── requirements.txt
 └── .gitignore
 
-## 🔍 Métricas analizadas
+##  Métricas analizadas
 - Usuarios únicos diarios, semanales, mensuales
 - Duración de sesiones, frecuencia de retorno
 - Ingresos, tamaño promedio de compra
